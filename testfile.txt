@@ -1,0 +1,21 @@
+great
+gr,eat
+gr eat
+gre,a;t
+system
+sys tem
+sys,tem
+sy s,t;em
+s y s,te;m
+simple
+simple is beautiful
+unix system
+operating 
+aaron is nice 
+aaron 
+aa,ron
+aa,,ron
+aa,,:ron
+aa,r,o:n
+aa,, ron
+aa,r o:n
